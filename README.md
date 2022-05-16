@@ -1,10 +1,6 @@
-# Demo
-
-Some description!
-
 ## Subheader
 
-Watch tutorial on Ytb.
+Watch tutorial on Youtube.
 
 ## Local development
 
